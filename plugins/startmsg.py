@@ -25,7 +25,7 @@ You can now send a new URL."""
     UPLOAD_START = "📤 UPLOADING..."
     RCHD_TG_API_LIMIT = "<b>Downloaded in:</b> {} seconds.\n<b>Detected file size:</b> {}.\n\nSorry. But, I cannot upload files greater than 2GB due to Telegram API limitations 😕."
     #AFTER_SUCCESSFUL_UPLOAD_MSG = "𝘛𝘏𝘈𝘕𝘒𝘚 𝘍𝘖𝘙 𝘜𝘚𝘐𝘕𝘎 𝘔𝘌 🥰"
-    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "𝘛𝘏𝘈𝘕𝘒𝘚 𝘍𝘖𝘙 𝘜𝘚𝘐𝘕𝘎 𝘔𝘌 🥰\n\n@NT_BOT_CHANNEL"
+    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "𝘛𝘏𝘈𝘕𝘒𝘚 𝘍𝘖𝘙 𝘜𝘚𝘐𝘕𝘎 𝘔𝘌 🥰\n\n@metrohdmovies"
     SAVED_CUSTOM_THUMB_NAIL = "Save Your Thumbnail ✅."
     DEL_ETED_CUSTOM_THUMB_NAIL = " Delete Your Thumbnail ✅."
     CUSTOM_CAPTION_UL_FILE = "{}"
@@ -49,7 +49,7 @@ You can now send a new URL."""
 """
     ABOUT_TEXT = """<b>🔘 My Name :</b> URL Uploader Bot V2 🚀
 
-<b>🔘 Channel :</b> <a href="https://t.me/metrohdmovies">NT BOT</a>
+<b>🔘 Channel :</b> <a href="https://t.me/metrohdmovies">MHDM</a>
 
 <b>🔘 Source :</b> <a href="https://t.me/metrohdmovies">Click Here</a>
 
